@@ -16,6 +16,8 @@ Aqui las tareas se ordenan una detrás de la otra a medida de que van llegando.
 - Las interacciones visuales.
 - Los eventos que se realizan cada cierto tiempo.
 
-Recien cuando el programa se queda sin funciones en la pila de ejecucion es que va a ir a buscar las funciones en la cola de tareas por eso es que hay que tener cuidado de no generar cuellos de botella en la pila de ejecución. Si esto llegará a pasar JS tardaria mucho en ejecutar el programa.
-conclusion:
+Recien cuando el programa se queda sin funciones en la pila de ejecucion es que va a ir a buscar las funciones en la cola de tareas por eso es que hay que tener cuidado de no generar cuellos de botella en la pila de ejecución. Si esto llegará a pasar JS tardaría mucho en ejecutar el programa.
+
+conclusión:
+
 **NO BLOQUEAR EL EVENTLOOP**
