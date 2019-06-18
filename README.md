@@ -1,7 +1,6 @@
 # JavaScript-asincronismo
 
-**Descripcion sencilla de como funciona el asincronismo en JS
-** :smile:
+**Descripcion sencilla de como funciona el asincronismo en JS** :smile:
 
 Java Script no es multitarea, por lo que le manda a hacer la ejecucion a otros procesos a esto se le llama EventLoop.
 JavaScript tiene algo llamado la pila de ejecucion o 'callstack' donde va poniendo las llamadas a las funciones segun el orden de ejecución de nuestro programa; si una función llama a otra, entonces esta se agrega a la pila.
